@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dj2313
-- 👀 I’m interested in Networkinh,Gaming
+- 👀 I’m interested in Networking,Gaming
 - 🌱 I’m currently learning Computer Engineering
 - 💞️ I’m looking to collaborate on Networking
 - 📫 How to reach me ...
