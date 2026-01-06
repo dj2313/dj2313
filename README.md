@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://github.com/dj2313/dj2313/blob/main/github-header-banner.png?raw=true]" alt="Dhruv Trivedi Software Engineer Banner" width="100%">
+  <img src="https://github.com/dj2313/dj2313/blob/main/github-header-banner.png?raw=true" alt="Dhruv Trivedi Software Engineer Banner" width="100%">
 </p>
 
 # Dhruv Trivedi | Software Engineer & Full-Stack Developer 👋
