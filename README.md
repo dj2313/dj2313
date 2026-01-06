@@ -5,14 +5,14 @@ Hey there, I'm **Dhruv Trivedi** 👋
 
 I am a results-driven **Software Developer** and **AI Enthusiast** specializing in building high-performance, user-centric applications. My expertise spans **Mobile App Development** with Flutter, **Machine Learning**, and scalable **Full-Stack Systems**.
 
-🔭 **Currently working on:** AI-powered mobile applications using Flutter and personal productivity tools.
-👯 **Looking to collaborate on:** Open-source AI, Flutter, and Full-stack projects.
-🤝 **Goal:** Integrating advanced LLM features, MCP architecture, and AI agents into real-world apps.
-🌱 **Learning:** Scalable backend architectures, prompt engineering, and deep learning optimization.
-💬 **Ask me about:** Flutter development, Firebase, UI/UX design, and building intelligent digital assistants.
-⚡ **Fun fact:** I turn random ideas into working prototypes way too fast 🚀
+* 🔭 **Currently working on:** AI-powered mobile applications using Flutter and personal productivity tools.
+* 👯 **Looking to collaborate on:** Open-source AI, Flutter, and Full-stack projects.
+* 🤝 **Goal:** Integrating advanced LLM features, MCP architecture, and AI agents into real-world apps.
+* 🌱 **Learning:** Scalable backend architectures, prompt engineering, and deep learning optimization.
+* 💬 **Ask me about:** Flutter development, Firebase, UI/UX design, and building intelligent digital assistants.
+* ⚡ **Fun fact:** I turn random ideas into working prototypes way too fast 🚀
 
-> “Elegance in code is not about perfection — it’s about clarity and intent.”
+ <br><br>“Elegance in code is not about perfection — it’s about clarity and intent.”
 
 ---
 
