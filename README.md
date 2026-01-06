@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hey there, I'm Dhruv 👋  <br><br>🔭 I’m currently working on AI-powered mobile apps and personal productivity tools.<br>👯 I’m looking to collaborate on AI, Flutter, and full-stack projects  <br>🤝 I’m looking for help with integrating advanced LLM features into real-world apps.<br>🌱 I’m currently learning MCP architecture, prompt engineering, and scalable backend systems.<br>💬 Ask me about Flutter, Firebase, UI/UX, and building intelligent assistants.<br>⚡ Fun fact: I turn random ideas into working prototypes way too fast 🚀  <br><br>“Elegance in code is not about perfection — it’s about clarity and intent.”
+# Hi, I'm Dhruv Trivedi 👋 
+## 💫 About Me:  <br><br>🔭 I’m currently working on AI-powered mobile apps and personal productivity tools.<br>👯 I’m looking to collaborate on AI, Flutter, and full-stack projects  <br>🤝 I’m looking for help with integrating advanced LLM features into real-world apps.<br>🌱 I’m currently learning MCP architecture, prompt engineering, and scalable backend systems.<br>💬 Ask me about Flutter, Firebase, UI/UX, and building intelligent assistants.<br>⚡ Fun fact: I turn random ideas into working prototypes way too fast 🚀  <br><br>“Elegance in code is not about perfection — it’s about clarity and intent.”
 
 
 ## 🌐 Socials:
