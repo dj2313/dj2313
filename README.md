@@ -12,7 +12,7 @@ I am a results-driven **Software Developer** and **AI Enthusiast** specializing 
 * 💬 **Ask me about:** Flutter development, Firebase, UI/UX design, and building intelligent digital assistants.
 * ⚡ **Fun fact:** I turn random ideas into working prototypes way too fast 🚀
 
- <br><br>“Elegance in code is not about perfection — it’s about clarity and intent.”
+ - “Elegance in code is not about perfection — it’s about clarity and intent.”
 
 ---
 
