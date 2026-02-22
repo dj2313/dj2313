@@ -2,19 +2,19 @@
   <img src="https://github.com/dj2313/dj2313/blob/main/github-header-banner.png?raw=true" alt="Dhruv Trivedi Software Engineer Banner" width="100%">
 </p>
 
-# Dhruv Trivedi | Software Engineer & Full-Stack Developer 👋
+# Dhruv Trivedi | Flutter & Full-Stack Developer 👋
 
 ## 💫 About Me:
 Hey there, I'm **Dhruv Trivedi** 👋
 
-I am a results-driven **Software Developer** and **AI Enthusiast** specializing in building high-performance, user-centric applications. My expertise spans **Mobile App Development** with Flutter, **Machine Learning**, and scalable **Full-Stack Systems**.
+I am a results-driven **Flutter Developer** and **AI Enthusiast** specializing in building high-performance, user-centric applications. My expertise spans **Mobile App Development** with Flutter, **Machine Learning**, and scalable **Full-Stack Systems**.
 
-* 🔭 **Currently working on:** AI-powered mobile applications using Flutter and personal productivity tools.
-* 👯 **Looking to collaborate on:** Open-source AI, Flutter, and Full-stack projects.
-* 🤝 **Goal:** Integrating advanced LLM features, MCP architecture, and AI agents into real-world apps.
-* 🌱 **Learning:** Scalable backend architectures, prompt engineering, and deep learning optimization.
-* 💬 **Ask me about:** Flutter development, Firebase, UI/UX design, and building intelligent digital assistants.
-* ⚡ **Fun fact:** I turn random ideas into working prototypes way too fast 🚀
+- 🔭 **Currently building:** AI-powered restaurant operations tools and SmartBudget — a Flutter finance manager
+- 🎯 **Niche:** Mobile and web apps for hospitality, healthcare, and finance businesses
+- 💼 **Available for:** Freelance Flutter/React projects and part-time startup roles
+- 🛠️ **Stack I ship with:** Flutter, React, Supabase, Firebase, FastAPI, GitHub Actions
+- 💬 **Ask me about:** Flutter architecture, Supabase vs Firebase tradeoffs, building AI features into mobile apps
+- 📫 **Reach me:** trivedidhruv127.dev@gmail.com
 
  - “Elegance in code is not about perfection — it’s about clarity and intent.”
 
