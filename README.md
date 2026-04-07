@@ -110,11 +110,11 @@ Frontend: Flutter • Dart • React • Next.js • TypeScript Backend: FastAPI
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dj2313&theme=radical&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=1800)
+![dj2313 GitHub stats](https://github-readme-stats.vercel.app/api?username=dj2313&show_icons=true&theme=radical&count_private=true)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=dj2313&theme=radical&hide_border=false)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=dj2313&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dj2313&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dj2313&theme=radical&layout=compact&langs_count=8)
 
 </div>
 
