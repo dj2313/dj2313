@@ -42,7 +42,7 @@ I am a **Multi-Agent Systems Specialist** and **Full-Stack Engineer** focused on
 
 ## 📌 Top Deployments
 
-### 🤖 [Job Hunter Agent (Berlin AI)](https://github.com/dj2313/Job-Hunter)
+### 🤖 [Job Hunter Agent](https://github.com/dj2313/Job-Hunter)
 **Fully Autonomous Recruitment Bot** - Runs daily via GitHub Actions.
 - 🔍 Searches Tavily for niche AI roles in Berlin.
 - 🧠 Scores relevance using Llama 3 (Groq API).
