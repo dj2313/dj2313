@@ -4,11 +4,9 @@
 
 <div align="center">
 
-# Dhruv Trivedi | AI & Full-Stack Architect 🚀
+# Dhruv Trivedi — AI Engineer & Flutter Developer
 
-### 🔥 Building Autonomous Multi-Agent Systems & High-Performance Mobile Apps
-
-*Architecting the future with LLMs, Flutter, and Scalable Backend Systems.*
+### Building multi-agent AI systems that actually ship
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruv-trivedi127) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23121011.svg?logo=vercel&logoColor=white)](https://dhruv-trivedi-portfolio.vercel.app/)
@@ -18,18 +16,22 @@
 
 ---
 
-## 💫 About Me
+## About Me
 
-I am a **Multi-Agent Systems Specialist** and **Full-Stack Engineer** focused on bridging the gap between intelligent AI agents and high-fidelity user experiences. 
+MSc Software Engineering @ UE Potsdam · Relocating to Berlin · Open to Werkstudent roles.
 
-- 🤖 **AI Intelligence**: Specialized in LangGraph, RAG, and Autonomous Agent coordination.
-- 📱 **Mobile Excellence**: Expert-level Flutter development with a focus on custom architecture.
-- 🏗️ **Scalable Backends**: Building production-ready APIs with Python (FastAPI/Flask) and Supabase.
-- ⚡ **Performance**: Obsessed with coordinate-precise UI and millisecond-level optimizations.
+I build things at the intersection of LLM agents and mobile. Most of my work involves wiring together LangGraph pipelines, FastAPI backends, and Flutter frontends into something that solves a real problem — not just a demo.
+
+Right now I'm focused on:
+- Multi-agent systems with LangGraph, RAG, and MCP
+- Flutter apps that talk to AI backends
+- Keeping infra free (Fly.io, Supabase, Groq, Vercel)
+
+I'm not trying to do everything. I'm trying to be genuinely useful at the AI + mobile layer.
 
 ---
 
-## 🛠️ My Digital Arsenal
+## Tech Stack
 
 | **AI & LLM** | **Frontend** | **Backend & DB** | **DevOps & Tools** |
 | :--- | :--- | :--- | :--- |
@@ -40,29 +42,23 @@ I am a **Multi-Agent Systems Specialist** and **Full-Stack Engineer** focused on
 
 ---
 
-## 📌 Top Deployments
+## Projects
 
-### 🤖 [Job Hunter Agent](https://github.com/dj2313/Job-Hunter)
-**Fully Autonomous Recruitment Bot** - Runs daily via GitHub Actions.
-- 🔍 Searches Tavily for niche AI roles in Berlin.
-- 🧠 Scores relevance using Llama 3 (Groq API).
-- 📅 Syncs directly to Notion and sends daily Gmail digests.
+### [Job Hunter Agent](https://github.com/dj2313/Job-Hunter)
+Runs every day via GitHub Actions without me touching it. Searches Tavily for AI roles in Berlin, scores them with Llama 3 on Groq, then pushes results to Notion and sends a Gmail digest. Built it because manually scanning job boards was tedious and I wanted to see if I could automate the whole loop. Turns out you can.
 
-### 🇩🇪 [Sofort German PWA](https://github.com/dj2313/sofort-german-pwa)
-**AI-Powered Language Learning Platform** 
-- 📄 Coordinate-precise PDF scanning with Groq AI (Llama 3.3).
-- 🎙️ Interactive Shadow Listening feature.
-- ⚡ Offline-first architecture using Next.js and IndexedDB.
+### [RAG-MCP Business Agent](https://github.com/dj2313/rag-mcp-business-agent-telegram)
+Telegram bot backed by LangGraph + ChromaDB. Has persistent memory, real-time web search, and a human-in-the-loop approval step before it takes any action. The HITL part was the interesting design problem — figuring out when to stop and ask vs when to just proceed.
 
-### 💼 [RAG-MCP Business Agent](https://github.com/dj2313/rag-mcp-business-agent-telegram)
-**Autonomous Business Support for Telegram**
-- 🧠 Powered by LangGraph and RAG (ChromaDB).
-- 🌐 Real-time web search and persistent memory.
-- ✅ Human-in-the-loop approval system.
+### [Sofort German PWA](https://github.com/dj2313/sofort-german-pwa)
+AI-powered German learning app. Built it partly because I'm moving to Germany and needed something better than Duolingo for reading actual documents. PDF scanning with Groq + Shadow Listening feature + offline-first via IndexedDB.
+
+### [NOVA — Multi-Agent AI Suite](https://github.com/dj2313/NOVA---Natural-ON-Device-Virtual-Assistant)
+Zero-cost multi-agent productivity system. LangGraph orchestration, live web research, database task management. Runs entirely on free-tier infrastructure.
 
 ---
 
-## 📊 My GitHub Universe
+## GitHub Stats
 
 <div align="center">
 
@@ -73,25 +69,24 @@ I am a **Multi-Agent Systems Specialist** and **Full-Stack Engineer** focused on
 
 </div>
 
-### 🏆 Recognitions
+### Trophies
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dj2313&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&cache_seconds=1800" />
 </div>
 
 ---
 
-## 🌐 Let's Collaborate
+## What I'm working on now
 
-I'm always looking for innovative projects at the intersection of **AI Agents and Mobile Development**.
+Merging MCP with native Flutter — most agent UIs are still web-only and I think there's something interesting in bringing tool-calling into mobile. Also finishing up a receipt scanner with Gemini Vision + Google Sheets that a few small businesses have asked about.
 
-- 🔭 **Current Goal**: Merging MCP (Model Context Protocol) with native Flutter apps.
-- ⚡ **Freelance**: Open for high-performance app builds and AI implementation consulting.
-- 🗨️ **Ask me about**: Why agents are the new apps.
+If you're building something at the AI + mobile intersection, I'm always up for a conversation.
+
+---
 
 <div align="center">
 
 **[![](https://visitcount.itsvg.in/api?id=dj2313&icon=5&color=0)](https://visitcount.itsvg.in)**
-
-**⭐ If you find my work useful, a follow or a star means a lot!**
 
 </div>
