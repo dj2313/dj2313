@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# Dhruv Trivedi — AI Engineer & Flutter Developer
+# Dhruv Trivedi — AI Application Engineer & Flutter Developer
 
 ### Building multi-agent AI systems that actually ship
 
